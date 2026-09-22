@@ -2,9 +2,9 @@
 
 Three plain HTML pages for the free checklist and Affiliate Funnel Launch Program.
 
-## Assets to add
+## Assets and settings
 
-- `assets/amit-coach.png` — Amit Chakraborty's supplied coach portrait. It was not included with the pasted brief. The About sections use this path and show a designed proof graphic if the image is unavailable.
+- `assets/amit-coach.png` — Amit Chakraborty's real portrait, included in this repository for both About sections.
 - `assets/affiliate-funnel-starter-checklist.pdf` — the real PDF checklist. The download button already points here; no placeholder PDF was created.
 - Set `GROUP_LINK` in `config.js` when the real group invite link is available. Other editable site details are in the same file.
 
