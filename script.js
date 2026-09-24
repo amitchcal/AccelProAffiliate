@@ -13,7 +13,7 @@ document.querySelectorAll("[data-site-replace]").forEach((element) => {
   const key = element.dataset.siteReplace;
   const value = site[key];
   if (!value) return;
-  const original = key === "BRAND" ? "AccelPro Affiliate" : "";
+  const original = key === "BRAND" ? "AccelPro Digital Marketing Academy" : "";
   const attribute = element.hasAttribute("content") ? "content" : element.hasAttribute("aria-label") ? "aria-label" : null;
   if (attribute) element.setAttribute(attribute, element.getAttribute(attribute).replace(original, value));
   else element.textContent = element.textContent.replace(original, value);

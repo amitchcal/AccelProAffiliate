@@ -1,4 +1,4 @@
-# AccelPro Affiliate website
+# AccelPro Digital Marketing Academy — Affiliate Marketing Program
 
 Three plain HTML pages for the free checklist and Affiliate Funnel Launch Program.
 
