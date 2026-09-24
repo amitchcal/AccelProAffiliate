@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="520" viewBox="0 0 1600 520" role="img" aria-labelledby="title description">
+  <title id="title">AccelPro Academy</title>
+  <desc id="description">Horizontal AccelPro Academy master logo with a rising A and acceleration lines.</desc>
+  <g id="accelpro-master-mark" transform="translate(65 76) scale(.95)">
+    <path d="M0 190H92" stroke="#C9A227" stroke-width="18" stroke-linecap="round"/>
+    <path d="M24 148H108" stroke="#C9A227" stroke-width="14" stroke-linecap="round"/>
+    <path d="M51 110H124" stroke="#C9A227" stroke-width="10" stroke-linecap="round"/>
+    <path d="M102 245 196 42c9-20 36-20 45 0l96 203h-55l-65-143-30 66h47l22 48h-91l-13 29z" fill="#5A3A2E"/>
+    <path d="M198 172 286 84h-48l87-55v95l-19-35-72 83z" fill="#C9A227"/>
+  </g>
+  <text x="450" y="244" font-family="Montserrat, Poppins, Arial, sans-serif" font-size="142" font-weight="800" font-style="italic" letter-spacing="-7"><tspan fill="#111111">ACCEL</tspan><tspan fill="#C9A227">PRO</tspan></text>
+  <rect x="458" y="280" width="820" height="5" rx="2.5" fill="#C9A227"/>
+  <text x="462" y="393" fill="#5A3A2E" font-family="Montserrat, Poppins, Arial, sans-serif" font-size="90" font-weight="600" letter-spacing="21">ACADEMY</text>
+</svg>
