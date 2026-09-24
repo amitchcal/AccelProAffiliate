@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="190" viewBox="0 0 680 190" role="img" aria-labelledby="title desc">
+  <title id="title">AccelPro Affiliate Academy</title>
+  <desc id="desc">Stacked AccelPro Affiliate Academy brand lockup.</desc>
+  <g transform="translate(20 31) scale(1.2)" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M13 71 41 22 67 71" stroke="#111111" stroke-width="9"/>
+    <path d="M28 54h26" stroke="#C9A227" stroke-width="8"/>
+    <path d="m48 42 26-26M57 16h17v17" stroke="#C9A227" stroke-width="8"/>
+  </g>
+  <g font-family="Manrope, Avenir Next, Segoe UI, Arial, sans-serif">
+    <g font-size="58" font-weight="800" letter-spacing="-2.5">
+      <text x="135" y="90" fill="#111111">Accel</text>
+      <text x="280" y="90" fill="#C9A227">Pro</text>
+    </g>
+    <g font-size="28" font-weight="700" letter-spacing="3">
+      <text x="138" y="133" fill="#5A3A2E">AFFILIATE</text>
+      <text x="330" y="133" fill="#111111">ACADEMY</text>
+    </g>
+  </g>
+  <path d="M138 151h386" stroke="#C9A227" stroke-width="3" stroke-linecap="round"/>
+</svg>

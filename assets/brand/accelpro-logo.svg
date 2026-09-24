@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="128" viewBox="0 0 620 128" role="img" aria-labelledby="title desc">
+  <title id="title">AccelPro</title>
+  <desc id="desc">AccelPro master logo with a guided progress symbol.</desc>
+  <g transform="translate(14 16)" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M13 71 41 22 67 71" stroke="#111111" stroke-width="9"/>
+    <path d="M28 54h26" stroke="#C9A227" stroke-width="8"/>
+    <path d="m48 42 26-26M57 16h17v17" stroke="#C9A227" stroke-width="8"/>
+  </g>
+  <g font-family="Manrope, Avenir Next, Segoe UI, Arial, sans-serif" font-size="58" font-weight="800" letter-spacing="-2.5">
+    <text x="118" y="82" fill="#111111">Accel</text>
+    <text x="263" y="82" fill="#C9A227">Pro</text>
+  </g>
+</svg>
