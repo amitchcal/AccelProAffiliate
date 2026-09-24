@@ -1,7 +1,6 @@
 // CHANGE ONLY WHAT IS INSIDE THE QUOTES
 window.SITE = {
   BRAND: "AccelPro Digital Marketing Academy",
-  ACADEMY: "Digital Marketing",
   PROGRAM: "Affiliate Marketing Program",
   PRICE: "₹14,999",
   START_DATE: "Next Cohort Starting Soon",

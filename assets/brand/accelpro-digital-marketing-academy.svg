@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="320" viewBox="0 0 1100 320" role="img" aria-labelledby="title description">
+  <title id="title">AccelPro Digital Marketing Academy</title>
+  <desc id="description">AccelPro Digital Marketing Academy logo with a rising A and acceleration lines.</desc>
+  <g transform="translate(30 28) scale(.66)">
+    <path d="M0 190H92" stroke="#C9A227" stroke-width="18" stroke-linecap="round"/>
+    <path d="M24 148H108" stroke="#C9A227" stroke-width="14" stroke-linecap="round"/>
+    <path d="M51 110H124" stroke="#C9A227" stroke-width="10" stroke-linecap="round"/>
+    <path d="M102 245 196 42c9-20 36-20 45 0l96 203h-55l-65-143-30 66h47l22 48h-91l-13 29z" fill="#5A3A2E"/>
+    <path d="M198 172 286 84h-48l87-55v95l-19-35-72 83z" fill="#C9A227"/>
+  </g>
+  <text x="285" y="142" font-family="Montserrat, Poppins, Arial, sans-serif" font-size="108" font-weight="800" font-style="italic" letter-spacing="-5"><tspan fill="#111111">ACCEL</tspan><tspan fill="#C9A227">PRO</tspan></text>
+  <rect x="291" y="174" width="754" height="4" rx="2" fill="#C9A227"/>
+  <text x="295" y="244" fill="#5A3A2E" font-family="Montserrat, Poppins, Arial, sans-serif" font-size="34" font-weight="700" letter-spacing="5.3">DIGITAL MARKETING ACADEMY</text>
+</svg>
